@@ -1,7 +1,7 @@
 
 public class project {
 	public static void main(String[] args) {
-		System.out.println("Hayat Ibrahim ");
+		System.out.println("I did it ;) ");
 	}
 
 }
